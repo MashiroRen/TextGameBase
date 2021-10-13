@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - charactor
+  - text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 735105227
+    locked: 0
+  - name: Chara
+    uniqueID: 548538655
+    locked: 0
+  - name: CG
+    uniqueID: 1243596911
+    locked: 0
+  - name: TextCanvas
+    uniqueID: 2376977917
+    locked: 0
+  - name: TouchPanel
+    uniqueID: 176188053
+    locked: 0
+  - name: UIButtun
+    uniqueID: 1575272075
+    locked: 0
+  - name: SubMenu
+    uniqueID: 368301127
+    locked: 0
+  - name: Loading
+    uniqueID: 3171307403
+    locked: 0
+  - name: Card
+    uniqueID: 3762588717
+    locked: 0
